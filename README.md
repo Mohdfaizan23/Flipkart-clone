@@ -1,8 +1,6 @@
 Flipkar Clone MERN stack 
 
 Mohd faizan's Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart it has paytm Integration and get money from anywhere. This Flipkart clone with the best features in mobile, web, and iOS platforms, Completely responsive design using Material UI.
-- 🧪 **Kindly Please Support Me**
-  - I can provide brand-free products and full technical support for 1 year along with 1-year free update support and moreover
 - 👁 **Well typed**
   - Clean JavaScript code with good folder structure. 
 - **Requirements to fork this repo**
@@ -10,7 +8,18 @@ Mohd faizan's Flipkart Clone is done with top-notch features for the entrepreneu
    - React js, redux , redux-thunk , context
    - Knowledge of Express js & MVC architecture
    - Basic knowledge in MongoDB & Mongoose
+## Tech Stack
 
+Frontend: ReactJS , Redux, MaterialUI
+Backend: MongoDB , ExpressJS , NodeJS
+
+## Overall Functionality 
+- Explore products with Price , Description of product , Delivery , Discount options etc.
+- Add Product to cart
+- Direct buying of product
+- Paytm Payment gateway
+- SignIn / SignUp /SignOut
+- Search existing Products
 
 ![Screenshot 2023-07-26 135528](https://github.com/Mohdfaizan23/Flipkart-clone/assets/134620532/d2d33e17-08a2-47c3-8b2b-2db78a6fc01f)
 ![Screenshot 2023-07-26 135604](https://github.com/Mohdfaizan23/Flipkart-clone/assets/134620532/363e77a6-0ade-4c78-916e-11628ae4189f)
