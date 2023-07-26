@@ -24,15 +24,15 @@ Backend: MongoDB , ExpressJS , NodeJS
 
 ### Steps to run in your local
 ```cli
-git clone https://github.com/Mohdfaizan23/Flipkart-clone_MERN.git
+https://github.com/Mohdfaizan23/Flipkart-clone
 ```
 ```
-cd client
+cd frontend
 npm install
 ```
 ```
-cd server 
-npm install
+cd server
+nodemon install
 ```
  
 Create a .env file in server folder 
