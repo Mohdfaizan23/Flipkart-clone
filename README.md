@@ -1,4 +1,4 @@
-Flipkar Clone MERN stack 
+## Flipkart Clone By MERN
 
 Mohd faizan's Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart it has paytm Integration and get money from anywhere. This Flipkart clone with the best features in mobile, web, and iOS platforms, Completely responsive design using Material UI.
 - 👁 **Well typed**
