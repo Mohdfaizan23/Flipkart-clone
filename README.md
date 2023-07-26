@@ -21,6 +21,35 @@ Backend: MongoDB , ExpressJS , NodeJS
 - SignIn / SignUp /SignOut
 - Search existing Products
 
+
+### Steps to run in your local
+```cli
+git clone https://github.com/Mohdfaizan23/Flipkart-clone_MERN.git
+```
+```
+cd client
+npm install
+```
+```
+cd server 
+npm install
+```
+ 
+Create a .env file in server folder 
+Define and Add the following:
+```
+DB_USERNAME  = #yourDataHere
+DB_PASSWORD  = #yourDataHere
+DB_DATABASE  = #yourDataHere
+```
+Your backend now is runnin on 
+```
+ http://localhost:8000/
+```
+Your frontend is running on
+```
+http://localhost:3000/
+```
 ![Screenshot 2023-07-26 135528](https://github.com/Mohdfaizan23/Flipkart-clone/assets/134620532/d2d33e17-08a2-47c3-8b2b-2db78a6fc01f)
 ![Screenshot 2023-07-26 135604](https://github.com/Mohdfaizan23/Flipkart-clone/assets/134620532/363e77a6-0ade-4c78-916e-11628ae4189f)
 ![Screenshot 2023-07-26 135634](https://github.com/Mohdfaizan23/Flipkart-clone/assets/134620532/75996104-6d95-4223-b701-24e5c96b2f12)
